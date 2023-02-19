@@ -1,7 +1,6 @@
 {
   "name": "react-app",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -32,5 +31,14 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splean101/FE_2_3_JSX-DOM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/splean101/FE_2_3_JSX-DOM/issues"
+  },
+  "homepage": "https://github.com/splean101/FE_2_3_JSX-DOM#readme",
+  "description": ""
 }
